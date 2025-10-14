@@ -9,7 +9,7 @@
 **Пример оформления:**
 
 ```python
-# Задание 11 из ЕГЭ-2025 профиль [https://insperia.ru/blog/otvety-na-ege-po-matematike-2025-27-05]
+# Задание 12 из ЕГЭ-2025 профиль [https://insperia.ru/blog/otvety-na-ege-po-matematike-2025-27-05]
 # Найти наибольшее значение функции y = x^3 – 6x^2 + 9x + 5 на отрезке [0;3]
 
 import numpy as np
