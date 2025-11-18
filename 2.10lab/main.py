@@ -1,3 +1,4 @@
+#Задание № 2
 #Открытие файла с обработкой исключений FileNotFoundError и IOError
 filename = input("Введите имя файла: ")
 
