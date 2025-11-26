@@ -10,7 +10,7 @@ def PowerN(x, n):
         return 1
     elif n > 0:
         return x * PowerN(x, n - 1)
-    else:  # n < 0
+    else: 
         return 1 / PowerN(x, -n)
 
 print(PowerN(2, 3))   
